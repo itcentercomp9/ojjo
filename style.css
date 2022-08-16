@@ -45,6 +45,7 @@ h6 {
 .header {
     background-image: url(./images/bgc.png);
     background-position: center;
+    padding-top: 25px;
 }
 
 .menu {
